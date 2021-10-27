@@ -36,6 +36,12 @@ DIALOGUE SYSTEM TUTORIAL:
 
 ~~ - time it takes to cut to the next line of dialogue. To calculate this, it takes the writing speed and multiplies it by the number of characters you want it to be skipped after, including spaces. So for example, if writing speed is 0.05 and the number of characters is 10, it will skip to the next dialogue after 0.5 seconds.
 
+`` - add a background / change a background. leave empty for nothing, leaving it empty won't remove the background
+
+|| - change the music. leaving it empty won't do anything
+
+== - play a sound
+
 DEFAULT VALUES:
 ]32]
 *100*
@@ -49,6 +55,8 @@ DEFAULT VALUES:
 ?FFD89494?
 ..
 ~~
+``
+||
 
 
 

@@ -1,6 +1,6 @@
 {
      "song" : {
-         "player1" : "bfmii"
+         "curStage":"arenanight","gfVersion":"gf-mii","player1" : "bfmii"
         ,"player2" : "mattmad"
         ,"notes" : [
              {

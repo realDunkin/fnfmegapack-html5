@@ -465,4 +465,4 @@
 [83478.26086956522,3,0]]},
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":184,"changeBPM":true,"altAnim":false,"sectionNotes":[]},
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":184,"changeBPM":true,"altAnim":false,"sectionNotes":[]}
-],"bpm":184,"sections":0,"needsVoices":true,"player1":"bfb","player2":"spookyb","sectionLengths":[],"speed":2.2}}
+],"bpm":184,"sections":0,"needsVoices":true,"curStage":"spooky","gfVersion":"gfb","player1":"bfb","player2":"spookyb","sectionLengths":[],"speed":2.2}}

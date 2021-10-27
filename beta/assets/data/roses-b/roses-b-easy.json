@@ -1,4 +1,4 @@
-{"song":{"song":"Roses-B","notes":[
+{"song":{"notestyle":"pixel","song":"Roses-B","notes":[
 {"mustHitSection":false,"typeOfSection":0,"lengthInSteps":16,"bpm":127,"changeBPM":true,"altAnim":false,"sectionNotes":[
 [472.4409448818898,2,0],
 [708.6614173228347,3,0],
@@ -439,4 +439,4 @@
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":127,"changeBPM":true,"altAnim":false,"sectionNotes":[
 [83149.60629921261,0,0]]},
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":127,"changeBPM":true,"altAnim":false,"sectionNotes":[]}
-],"bpm":127,"sections":0,"needsVoices":true,"player1":"bfb-pixel","player2":"senpaib-angry","sectionLengths":[],"speed":1.5}}
+],"bpm":127,"sections":0,"needsVoices":true,"curStage":"school","gfVersion":"gfb-pixel","player1":"bfb-pixel","player2":"senpaib-angry","sectionLengths":[],"speed":1.5}}

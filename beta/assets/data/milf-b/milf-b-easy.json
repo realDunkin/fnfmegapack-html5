@@ -900,4 +900,4 @@
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":196,"changeBPM":true,"altAnim":false,"sectionNotes":[]},
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":196,"changeBPM":true,"altAnim":false,"sectionNotes":[]},
 {"mustHitSection":true,"typeOfSection":0,"lengthInSteps":16,"bpm":196,"changeBPM":true,"altAnim":false,"sectionNotes":[]}
-],"bpm":196,"sections":0,"needsVoices":true,"player1":"bfb-car","player2":"momb-car","sectionLengths":[],"speed":1.8}}
+],"bpm":196,"sections":0,"needsVoices":true,"curStage":"limo","gfVersion":"gfb-car","player1":"bfb-car","player2":"momb-car","sectionLengths":[],"speed":1.8}}
