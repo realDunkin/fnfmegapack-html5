@@ -2,6 +2,10 @@
 <TextureAtlas imagePath="alphabet.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="period0000" x="96" y="823" width="14" height="14"/>
+	<SubTexture name="period0001" x="112" y="823" width="14" height="14"/>
+	<SubTexture name="period bold0000" x="585" y="364" width="14" height="14"/>
+	<SubTexture name="period bold0001" x="608" y="364" width="14" height="14"/>
 	<SubTexture name="#0000" x="60" y="445" width="39" height="44"/>
 	<SubTexture name="#0001" x="60" y="445" width="39" height="44"/>
 	<SubTexture name="#0002" x="101" y="445" width="39" height="44"/>

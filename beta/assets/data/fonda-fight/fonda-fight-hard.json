@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bfchile",
 		"sectionLengths": [],
-		"player2": "matt",
+		"player2": "mattchile",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -7846,7 +7846,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gfchile",
 		"curStage": "unimarc2",
 		"song": "Fonda-Fight",
 		"needsVoices": true,
